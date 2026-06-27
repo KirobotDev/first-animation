@@ -52,7 +52,7 @@
     background-color: white;
     color: black;
     position: relative;
-    top: 2.2rem;
+    top: -1rem;
     left: 45rem;
     width: 25rem;
     height: 25rem;
@@ -61,7 +61,7 @@
 
 #email {
     position: relative;
-    top: -14.2rem;
+    top: -17.7rem;
     left: 51rem;
     border-radius: 5px;
     background-color: aliceblue;
@@ -71,7 +71,7 @@
 
 #passwd {
     position: relative;
-    top: -8.2rem;
+    top: -11.6rem;
     left: 37.2rem;
     border-radius: 5px;
     background-color: aliceblue;
