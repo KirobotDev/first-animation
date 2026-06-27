@@ -4,6 +4,7 @@ let eyess = document.getElementById("eyess")
 let brasdrt = document.getElementById("brasdrt")
 let brasgch = document.getElementById("brasgch")
 let passwdinput = document.getElementById("passwd")
+let lgnbtn = document.getElementById("lgnbtn")
 
 mailinput.addEventListener('click', (e) => {
     eyes.style.top = "0rem"
@@ -27,4 +28,8 @@ passwdinput.addEventListener('blur', (e) => {
     brasdrt.style.transform = "rotate(75deg)"
     brasgch.style.top = "2rem"
     brasgch.style.transform = "rotate(110deg)"
+})
+
+lgnbtn.addEventListener('click', (e) => {
+    window.open("https://github.com/kirobotdev")
 })
