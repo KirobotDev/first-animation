@@ -3,6 +3,10 @@
     color: black;
 }
 
+body {
+    overflow-y: hidden;
+}
+
 #smile {
     position: relative;
     width: 3rem;
